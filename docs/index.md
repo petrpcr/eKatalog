@@ -7,7 +7,7 @@
     * Vystavené faktury
 * Vytváření objednávek s následným odesláním na server
 * Práce v režimu offline - tablet není připojen k internetu a není v dosahu signálu.
-## Co potřebujete za vybavení
+## Co potřebujete za vybavení pro provoz
 * IPad s uhlopříčkou 10 palců
 * Serverovou část aplikace pro komunikace s informačním systémem 
 
