@@ -12,4 +12,4 @@
 * Serverovou část aplikace pro komunikace s informačním systémem 
 
 
-Pro podporu aplikace použijte [HelpDesk](https://nodejs.org)
+Pro podporu aplikace použijte [HelpDesk](https://harpagon.cz/helpdesk)
